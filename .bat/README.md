@@ -1,1 +1,1 @@
-# scriptBash
+# scriptBatch
