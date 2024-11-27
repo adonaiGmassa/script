@@ -2,4 +2,5 @@
 
 autoMat:
     vsProg:
-           .\CreateDotNetConsole.ps1 -projectName "NomDuProjet"
+        chmod +x create_dotnet_console.sh
+        ./create_dotnet_console.sh "NomDuProjet"
